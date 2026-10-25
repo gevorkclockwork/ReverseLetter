@@ -52,14 +52,4 @@ public class ReverseLetterTest {
         String result = reverseLetter.reverseLetter(null);
         Assertions.assertEquals("", result);
     }
-
-
-
-
-
-
-
-
-
-
 }
